@@ -1,5 +1,5 @@
 const express=require("express")
-const port=3002
+const port=process.env.port||3002
 const app=express() 
 app.use(express.json())
 let hall=[
