@@ -2,10 +2,10 @@
 
 This project is a Hall Booking System built using Node.js and Express.js. The system allows users to manage halls and their bookings. Below is a brief explanation of what the project does and how it works.
 ## Deployed Link
-**https://hallbooking-ga1w.onrender.com/showBooking
-**https://hallbooking-ga1w.onrender.com/hallDetails
-**https://hallbooking-ga1w.onrender.com/bookedHall
-**https://hallbooking-ga1w.onrender.com/userBooked
+1.**https://hallbooking-ga1w.onrender.com/showBooking
+2.**https://hallbooking-ga1w.onrender.com/hallDetails
+3.**https://hallbooking-ga1w.onrender.com/bookedHall
+4.**https://hallbooking-ga1w.onrender.com/userBooked
 
 
 
